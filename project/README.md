@@ -1,12 +1,16 @@
-# React + Vite
+### Overview
+The Countdown to 2026 project is a lightweight and responsive web application that dynamically calculates and displays the time remaining until 1 January 2026. It was built as a learning exercise to practise JavaScript, HTML, and CSS, while also exploring concepts such as time manipulation and DOM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+### Features
+Real-time countdown: Displays the remaining days, hours, minutes, and seconds until 2026.
+Responsive design: Works seamlessly on both desktop and mobile devices.
+Dynamic updates: The countdown timer updates every second without requiring a page refresh.
+Customisable target date: Easily modify the target date for other countdowns.
+Technologies Used
+HTML5: Markup for structuring the application.
+CSS3: Styling for a visually appealing and responsive design.
+JavaScript (ES6+): Logic for calculating and updating the countdown in real time.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Licence
+This project is licensed under the MIT Licence. Feel free to use, modify, and distribute it as you wish.
